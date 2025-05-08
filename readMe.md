@@ -9,14 +9,14 @@ This project demonstrates two Question Answering (Q&A) models:
 
 ### English Model
 
-![English Q&A](E:\AI\QABert\images\Q&A_English_Demo.png)
+![English Q&A](images/Q&A_English_Demo.png)
 
 - Model: BERT
 - Dataset: [SQuAD](https://drive.google.com/file/d/10II700yrTxOMIInqSUXWRWwHc9pLK-hW/view?usp=sharing)
 
 ### Vietnamese Model
 
-![Vietnamese Q&A](E:\AI\QABert\images\Q&A_Vietnamese_Demo.png)
+![Vietnamese Q&A](images/Q&A_Vietnamese_Demo.png)
 
 - Model: viBERT
 - Dataset: [UIT-ViQuAD2.0](https://drive.google.com/file/d/1n0lA92OnnvAArWLptz_5ejIsMY4tjedQ/view?usp=sharing)
