@@ -17,14 +17,14 @@ This project demonstrates an intelligent Question Answering (Q&A) system that au
 
 ### PDF File
 
-![English Q&A](images/Screenshot 2025-05-18 100147.png)
+![English Q&A](images/model.png)
 
 - Model: BERT
 - Dataset: [SQuAD](https://drive.google.com/file/d/10II700yrTxOMIInqSUXWRWwHc9pLK-hW/view?usp=sharing)
 
 ### Vietnamese & English Model
 
-![Vietnamese Q&A](images/Screenshot 2025-05-18 100120.png)
+![Vietnamese Q&A](images/pdf.png)
 
 - Model: viBERT
 - Dataset: [UIT-ViQuAD2.0](https://drive.google.com/file/d/1n0lA92OnnvAArWLptz_5ejIsMY4tjedQ/view?usp=sharing)
